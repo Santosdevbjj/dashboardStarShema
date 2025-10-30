@@ -14,14 +14,14 @@ Este projeto tem como objetivo a **criação de um modelo dimensional (Star Sche
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 Transformar o modelo relacional original em um **modelo dimensional otimizado** para análise no Power BI, com base no conceito de **Esquema em Estrela (Star Schema)**.
 
 ---
 
-## 🧩 Estrutura do Modelo Dimensional
+##  Estrutura do Modelo Dimensional
 
-### 🧱 Tabela Fato: `fato_professor_curso`
+###  Tabela Fato: `fato_professor_curso`
 Contém os dados principais para análise:
 | Campo | Tipo | Descrição |
 |--------|------|------------|
@@ -36,7 +36,7 @@ Contém os dados principais para análise:
 
 ---
 
-### 🧩 Tabelas Dimensão
+###  Tabelas Dimensão
 
 #### `dim_professor`
 | Campo | Tipo | Descrição |
@@ -101,6 +101,32 @@ O dashboard apresenta:
 
 
 <img width="823" height="527" alt="Screenshot_20251030-192354" src="https://github.com/user-attachments/assets/c5dc46c1-d8b7-49b5-bf2f-15fa1eb5bdf7" />
+
+
+
+---
+
+
+ **Como importar no Power BI**
+
+1. Vá em Obter Dados → Texto/CSV e selecione cada arquivo.
+
+
+2. Confirme o tipo de dados conforme cada coluna.
+
+
+3. Crie o relacionamento automático entre as dimensões e a tabela fato.
+
+
+4. Construa visuais com as seguintes medidas (do arquivo /powerbi/medidas_DAX.md):
+
+Total Cursos
+
+Receita Total
+
+Média Carga Horária
+
+Receita por Professor
 
 
 
