@@ -3,6 +3,7 @@
 **Total Cursos =**
 ```DAX
 COUNTROWS(fato_professor_curso)
+```
 
 Receita Total =
 
