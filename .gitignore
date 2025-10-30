@@ -1,0 +1,12 @@
+# Power BI / Office
+*.pbix
+*.pbit
+*.xlsx
+*.csv
+*.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
+.vscode/
+__pycache__/
