@@ -100,7 +100,13 @@ O dashboard apresenta:
 
 
 
-📦 dashboardStarShema ├── 📁 data ├── 📁 modelagem ├── 📁 powerbi ├── 📁 sql ├── 📁 docs └── 📁 images 
+📦 dashboardStarShema 
+├── 📁 data 
+├── 📁 modelagem 
+├── 📁 powerbi 
+├── 📁 sql 
+├── 📁 docs 
+└── 📁 images 
 
 
 ---
