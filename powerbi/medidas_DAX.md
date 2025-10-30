@@ -23,6 +23,8 @@ DIVIDE(SUM(fato_professor_curso[valor_curso]), COUNTROWS(DISTINCT(dim_professor[
 
 ```markdown
 # Integração Power BI + Azure MySQL
+```
+
 
 1. Crie uma instância de **Azure Database for MySQL**.
 2. Configure as tabelas com base nos scripts SQL.
