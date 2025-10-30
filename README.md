@@ -100,15 +100,12 @@ O dashboard apresenta:
 
 
 
-📦 dashboardStarShema 
-├── 📁 data 
-├── 📁 modelagem 
-├── 📁 powerbi 
-├── 📁 sql 
-├── 📁 docs 
-└── 📁 images 
+<img width="823" height="527" alt="Screenshot_20251030-192354" src="https://github.com/user-attachments/assets/c5dc46c1-d8b7-49b5-bf2f-15fa1eb5bdf7" />
+
 
 
 ---
+
+
 
 
