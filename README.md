@@ -132,6 +132,12 @@ Receita por Professor
 
 ---
 
+## 👨‍💻 Autor
+**Sérgio Santos**  
+
+---
+
+
 
 
 
