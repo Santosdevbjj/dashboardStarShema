@@ -1,0 +1,11 @@
+id_curso,nome_curso,tipo,modalidade,carga_horaria_total
+1,Engenharia de Software,Graduação,Presencial,3600
+2,Gestão Empresarial,Pós-Graduação,EAD,480
+3,Contabilidade Avançada,Extensão,Presencial,80
+4,Direito Empresarial,Pós-Graduação,Presencial,360
+5,Inteligência Artificial,Extensão,EAD,120
+6,Saúde Mental no Trabalho,Extensão,EAD,60
+7,Matemática Computacional,Graduação,Presencial,3000
+8,Gestão de Projetos,Pós-Graduação,EAD,420
+9,Construção Sustentável,Extensão,Presencial,100
+10,Psicopedagogia Escolar,Pós-Graduação,Presencial,480
