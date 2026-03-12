@@ -2,7 +2,7 @@
 
 ![Klabin003](https://github.com/user-attachments/assets/f3b7de26-5d6b-4247-aa9b-59a143e3988e)
 
-**Bootcamp NTT DATA — Modelagem Dimensional com Power BI e SQL Server**
+**Modelagem Dimensional com Power BI e SQL Server**
 
 ---
 
@@ -18,7 +18,7 @@ O desafio deste projeto foi transformar um modelo transacional de gestão acadê
 
 ## 2. Contexto
 
-Este projeto foi desenvolvido como parte do **Bootcamp NTT DATA**, com foco em modelagem dimensional aplicada ao domínio de gestão educacional.
+Este projeto foi desenvolvido, com foco em modelagem dimensional aplicada ao domínio de gestão educacional.
 
 O cenário representa uma instituição de ensino com múltiplos departamentos, oferta de cursos presenciais e EAD, corpo docente com diferentes formações e titulações, e necessidade de monitorar indicadores como receita por curso, carga horária por professor e distribuição de disciplinas por área do conhecimento.
 
